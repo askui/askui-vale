@@ -106,3 +106,4 @@ autostart
 VSCode
 binaryVersion
 logLevel
+SDKMAN!
