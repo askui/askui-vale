@@ -107,3 +107,7 @@ VSCode
 binaryVersion
 logLevel
 SDKMAN!
+clearly
+(?i)linebreak
+(?i)color
+subfolder
