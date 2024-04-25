@@ -111,3 +111,6 @@ clearly
 (?i)linebreak
 (?i)color
 subfolder
+params
+clickCheckbox
+clickSwitch
