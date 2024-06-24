@@ -1,0 +1,9 @@
+extends: substitution
+message: "Use '%s' rather than '%s'."
+level: warning
+ignorecase: false
+action:
+  name: replace
+swap:
+  You are going to: You will
+  e.g.: for example

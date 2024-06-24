@@ -115,4 +115,4 @@ params
 clickCheckbox
 clickSwitch
 stopThreshold
-expectExistence
+expectAllExist
