@@ -116,3 +116,4 @@ clickCheckbox
 clickSwitch
 stopThreshold
 expectAllExist
+aiElement
